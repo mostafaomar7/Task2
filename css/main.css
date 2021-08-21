@@ -122,15 +122,21 @@ input{
         float: right;
     }
   .s{
-      margin-left: 0px;
+      margin-left: 20px;
   }
   .nav-item1{
-      margin-right: 25px;
+      margin-right: 38px;
   }
   .cb{
       width: 50%;
   }
   .cimg{
       margin-left: 0px;
+  }
+  .climg{
+      margin-left:  20px;;
+  }
+  .pimg{
+      margin-left:20px ;
   }
 }
